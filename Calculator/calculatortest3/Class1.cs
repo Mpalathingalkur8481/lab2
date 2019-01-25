@@ -12,11 +12,11 @@ namespace calculatortest3
     {
 
         [Test]
-        public void GetAddition_Input2and3_Returns5()
+        public void GetAddition_Input3and2_Returns5()
         {
             //Arrange
-            double number1 = 2;
-            double number2 = 3;
+            double number1 = 3;
+            double number2 = 2;
             double expectedResult = number1 + number2;
             Calc testCalc = new Calc(number1, number2);
             //Act
