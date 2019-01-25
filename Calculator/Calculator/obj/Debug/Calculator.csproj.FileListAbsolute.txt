@@ -1,0 +1,10 @@
+C:\Users\Merlin\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Merlin\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Merlin\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Merlin\source\repos\Calculator\Calculator\bin\Debug\nunit.framework.dll
+C:\Users\Merlin\source\repos\Calculator\Calculator\bin\Debug\nunit.framework.xml
+C:\Users\Merlin\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Merlin\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Merlin\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Merlin\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Merlin\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
