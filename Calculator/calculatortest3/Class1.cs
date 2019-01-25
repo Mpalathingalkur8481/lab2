@@ -155,8 +155,8 @@ namespace calculatortest3
         public void GetDivision_Input4and40_Returns0point1()
         {
             //Arrange
-            double number1 = 4;
-            double number2 = 40;
+            double number1 = 40;
+            double number2 = 4;
             double expectedResult = number1 / number2;
             Calc testCalc = new Calc(number1, number2);
             //Act
